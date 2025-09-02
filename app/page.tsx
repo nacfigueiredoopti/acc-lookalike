@@ -1,3 +1,4 @@
+import TopBanner from "@/components/TopBanner";
 import Image from "next/image";
 
 type Section = {
